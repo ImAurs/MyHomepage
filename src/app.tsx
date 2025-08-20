@@ -5,7 +5,7 @@ import ThemeMode from "./components/ThemeMode";
 import { GithubIcon, Mail, ExternalLink } from "lucide-preact";
 import SkillCard from "./components/SkillCard";
 
-export default function AppPage() {
+export default function App() {
     const textElement = useRef<HTMLSpanElement>(null);
     const skillsContainerRef = useRef<HTMLDivElement>(null);
 
