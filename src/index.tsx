@@ -1,4 +1,4 @@
 import { render } from "preact";
-import AppPage from "./app";
+import App from "./app";
 
-render(<AppPage />, document.getElementById("root"));
+render(<App />, document.getElementById("root"));
