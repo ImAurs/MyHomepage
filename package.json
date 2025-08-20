@@ -1,0 +1,28 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "@fontsource/inter": "^5.2.6",
+        "@tailwindcss/vite": "^4.1.12",
+        "gsap": "^3.13.0",
+        "lucide-preact": "^0.540.0",
+        "preact": "^10.26.9",
+        "tailwindcss": "^4.1.12"
+    },
+    "devDependencies": {
+        "@preact/preset-vite": "^2.10.2",
+        "eslint": "^9.33.0",
+        "eslint-config-preact": "^2.0.0",
+        "typescript": "^5.9.2",
+        "vite": "npm:rolldown-vite",
+        "vite-plugin-singlefile": "^2.3.0"
+    },
+    "eslintConfig": {
+        "extends": "preact"
+    }
+}

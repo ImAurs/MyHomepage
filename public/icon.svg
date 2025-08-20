@@ -1,0 +1,13 @@
+<svg viewBox="0 0 400 200"
+     xmlns="http://www.w3.org/2000/svg"
+     style="background:#fff">
+
+    <path d="M150 20  v160
+           M120 20 h60
+           M120 180 h60"
+          stroke="#007BFF" stroke-width="24" stroke-linecap="round" fill="none"/>
+
+    <path d="M190 180  L240 20  L290 180
+           M210 100  L270 100"
+          stroke="#FF0000" stroke-width="24" stroke-linecap="round" fill="none"/>
+</svg>
