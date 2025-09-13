@@ -36,6 +36,7 @@ export default function ThemeMode() {
             setIsDark(!isDark);
             return;
         }
+        return;
 
         const endRadius = Math.hypot(
             Math.max(x, window.innerWidth - x),
