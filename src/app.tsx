@@ -57,7 +57,7 @@ export default function App() {
     const ConnectMe = [
         {
             name: "github",
-            href: "https://github.com/BlocksFunction",
+            href: "https://github.com/ImAurs",
             icon: GithubIcon,
         },
         {
